@@ -1,0 +1,15 @@
+{
+    "name": "p1-fabricjs",
+    "version": "1.0.0",
+    "description": "Fabric Js Project 1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "lite-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
